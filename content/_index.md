@@ -4,4 +4,4 @@ featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 description: Put all your projects in.
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my blog everybody. Welcome ! How do you feel now ? Are you happy or sad ? Be ready to read some beautiful sentences.
