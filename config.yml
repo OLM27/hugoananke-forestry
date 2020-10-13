@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "https://olm27.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Project Web Site/ Blog"
 
 module:
   imports:
